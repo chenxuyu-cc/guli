@@ -102,12 +102,11 @@
             </dependency>
 
             <!--文件上传-->
-            <dependency>
-                <groupId>commons-fileupload</groupId>
-                <artifactId>commons-fileupload</artifactId>
-                <version>${commons-fileupload.version}</version>
-            </dependency>
-
+            
+            
+            
+            
+            
             <!--Spring Cloud-->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
